@@ -8,7 +8,7 @@ Xifeng Gao
 - Homepage: https://gaoxifeng.github.io/
 ### Teaching Assistant
 Arthur Karapateas
-- Office: 306 Dittmer Building
+- Office: 336 Dittmer Building
 - Office hours: Wednesday. 02:00pm~04:00pm
 
 ### Course Description
