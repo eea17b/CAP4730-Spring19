@@ -1,4 +1,4 @@
-#Computer Graphics, CAP4730 Spring 2019
+#### Computer Graphics, CAP4730 Spring 2019
 ### Lectures
 - Tue/Th. 9:30am~10:45am, 103 Love Building
 ### Course Instructor
