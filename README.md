@@ -16,7 +16,7 @@ Computer Graphics is the area of using computers to create and process all kinds
 
 ### Schedule and Course Notes 
 The schedule is tentative and will be adjusted along the way, the course materials will be added as the class proceeds.
-- Jan./08: [Introduction](https://github.com/FSU-ComputerGraphics/CAP4730-Spring19/01-Introduction.pdf)
+- Jan./08: [Introduction]
 - Jan./10: [Colors and Images]
 - Jan./15: [Ray Tracing]
 - Jan./17: [C++]
